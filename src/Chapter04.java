@@ -6,7 +6,7 @@ public class Chapter04 {
 		System.out.println(str1);
 		str1 = "Javaがんばるど";
 		System.out.println(str1);
-		final int LUCKY_NUMBER = 107;
-		System.out.println(LUCKY_NUMBER);
+		final int LUCKY_NUM = 107;
+		System.out.println(LUCKY_NUM);
 	}
 }
